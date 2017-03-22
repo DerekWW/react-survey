@@ -17,4 +17,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #ignore so client id and api key are not on git hub
-/helpers/config.js
+/src/helpers/config.js
